@@ -26,7 +26,7 @@ Team
 ----------------------------------
 Brian Tracy     | Jackson Keinitz
 Andrew Tam      | Maxwell Lenail
-Naveen Pai      |
+Naveen Pai      | Charles Stoisk
 Ian Woodfill    |
 
 ```
