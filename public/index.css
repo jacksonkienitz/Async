@@ -15,7 +15,7 @@ html {
 }
 
 .title {
-	font-size: 3em;
+	font-size: 5em;
 }
 
 .login {
@@ -36,5 +36,7 @@ html {
 
 	border: none;
 	border-radius: 5px;
+
+	-webkit-user-select: none;
 }
 

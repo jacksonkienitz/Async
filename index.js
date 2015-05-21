@@ -59,5 +59,16 @@ io.on("connection", function (socket) {
 	});
 });
 
+var User = require("./User");
+var UserDB = require("./UserDB");
+
+var brian = new User("POSTERITY", "<redacted>");
+var userDB = new UserDB();
+
+userDB.addUser(brian);
+
+
+console.log(brian);
+console.log(userDB);
 
 
