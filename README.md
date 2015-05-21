@@ -18,7 +18,18 @@ $ heroku create
 $ git push heroku master
 $ heroku open
 ```
+Team
+====
 
+```
+  Engineering	|      Design
+----------------------------------
+Brian Tracy	| Jackson Keinitz
+Andrew Tam	| Maxwell Lenail
+Naveen Pai	|
+Ian Woodfill	|
+
+```
 
 
 
