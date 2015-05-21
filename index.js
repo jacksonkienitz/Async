@@ -34,9 +34,12 @@ app.get('/', function(request, response) {
   response.sendFile(__dirname + "/public/index.html");
 });
 
-app.get("/index.js", function(request, response) {
-  response.sendFile(__dirname + "/public/index.js");
-});
+//app.get("/index.js", function(request, response) {
+//  response.sendFile(__dirname + "/public/index.js");
+//});
+
+serve(app, 'index.js');
+serve(app, 'index.css');
 
 var http = require('http').Server(app);
 var io = require('socket.io')(http);

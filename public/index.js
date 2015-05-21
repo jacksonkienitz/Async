@@ -1,5 +1,10 @@
-// index.js
+/*
+	Async
+	index.js
 
+	@author Brian Tracy
+
+*/
 $(document).ready(function () {
 
 	var socket = io("ws://localhost:4000");
