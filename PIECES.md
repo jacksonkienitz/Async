@@ -13,7 +13,7 @@ The assasin can move any number of spaces in any direction. It is invisible, but
 
 Spy
 ===
-The spy is the counter-piece to the assasin. It to is invisible, but it can only move one space in any direction.
+The spy is the counter-piece to the assasin. It is invisible, but it can only move one space in any direction.
 Its "special attack" is to explode, killing any assasin with a three space radius. Similar to the assasin, this 
 can only be used once.
 
