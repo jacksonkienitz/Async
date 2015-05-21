@@ -20,17 +20,14 @@ $ heroku open
 ```
 Team
 ====
-
 ```
-  Engineering	|      Design
-----------------------------------
-Brian Tracy     | Jackson Keinitz
-Andrew Tam      | Maxwell Lenail
-Naveen Pai      | Charles Stoisk
-Ian Woodfill    | Samarth Ve...
-
++-----------------------------------+
+|   Engineering   |      Design     |
++-----------------+-----------------+
+|   Brian Tracy   | Jackson Kienitz |
++-----------------+-----------------+
+| Andrew Tam      | Max Lenail      |
+| Naveen Pai      | Jack Stoksik    |
+| Ian Woodfill    | Samarth Ven...  |
++-----------------+-----------------+
 ```
-
-
-
-

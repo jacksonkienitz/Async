@@ -6,6 +6,11 @@
 
 */
 $(document).ready(function () {
+	
+	$(".login").click(function () {
+		console.log("clicked login button");
+	});	
+
 
 	var socket = io("ws://localhost:4000");
         console.log(socket);
