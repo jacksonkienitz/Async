@@ -1,3 +1,23 @@
+/*
+	Async
+	index.js
+
+	@author Brian Tracy
+*/
+
+
+
+/*
+	Serve the requested file on the requested app. Boilerplate.
+*/
+function serve(app, jsFile) {
+	var path = '/' + jsFile;
+	app.get(path, function (request, response) {
+		response.sendFile(__dirname + '/public' + path);
+	});
+}
+
+
 
 var express = require('express');
 var app = express();
